@@ -1,0 +1,5 @@
+1.0.1 - 2011-07-24 - v@linuxops.com
+- Fixed typo that breaks serving jail.conf on CentOS
+
+1.0.0 - 2011-07-24 - v@linuxops.com
+- Initial release
